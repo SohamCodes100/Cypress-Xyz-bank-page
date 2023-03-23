@@ -10,6 +10,7 @@ Banklogin.clickOnaddcustomer()
 Banklogin.firstName()
 Banklogin.lastName()
 Banklogin.postCode()
+
 Banklogin.submitButton()
 
 }
